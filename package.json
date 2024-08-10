@@ -4,10 +4,11 @@
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
   "type": "commonjs",
-  "scripts": {
-    "start": "node index.js"
     "engines": {
     "node": "14.x"
+  },
+  "scripts": {
+    "start": "node index.js"
   },
   "author": "Frangky.",
   "license": "MIT",
